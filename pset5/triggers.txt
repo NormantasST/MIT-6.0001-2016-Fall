@@ -1,0 +1,6 @@
+t1,TITLE,Biden
+t2,DESCRIPTION,biden
+t3,TITLE,corona
+t4,DESCRIPTION,corona
+// the trigger list contains t1 and t4
+ADD,t1,t2,t3,t4
